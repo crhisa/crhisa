@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">🛠 Lo que se</h3>
+<h3 align="left">🛠 Lo muy poco que se</h3>
 
 ###
 
